@@ -11,7 +11,7 @@
       { "height": 5701114, "Age": "2 min ago", "txn": 12, "miner": "fangsheng", "hash":"0x2a5994b501e6a560e727b6c2de5d856396aadd38","gasused": 7964944, "gaslimit":7980551},
       { "height": 5701113, "Age": "44 secs ago", "txn": 55, "miner": "fangsheng", "hash":"0x2a5994b501e6a560e727b6c2de5d856396aadd38","gasused": 7964944, "gaslimit":7980551},
       { "height": 5701112, "Age": "44 secs ago", "txn": 12, "miner": "fangsheng", "hash":"0x2a5994b501e6a560e727b6c2de5d856396aadd38","gasused": 7964944, "gaslimit":7980551},
-      { "height": 5701111, "Age": "44 secs ago", "txn": 12, "miner": "fangsheng", "hash":"0x2a5994b501e6a560e727b6c2de5d856396aadd38","gasused": 7964944, "gaslimit":7980551},
+      { "height": 5701111, "Age": "44 secs ago", "txn": 12, "miner": "fangsheng", "hash":"0x2a5994b501e6a560e727b6c2de5d856396aadd38","gasused": 7964944, "gaslimit":7980551}
     ]
   }
 }
